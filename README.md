@@ -56,42 +56,8 @@
 
        
 
-  > wasdaw1
-  >
-  > asdawdsd1
-  >
-  > asdadwds1
-  >
-  > adsdawads1
-  >
-  > adsawdgaw
-  >
-  > > asdwasda
-  > >
-  > > saasd    
-
-``` c
-#include<stdio.h>
-void main()
-{
-    int i = 1;
-    if(i = 1)
-    {
-        i = 2;
-    }
-}
-
-```
 
  
 
-[百度](www.baidu.com)
 
-```c
-#include<stdio.h>
-void main()
-{
-    
-}
-```
 
